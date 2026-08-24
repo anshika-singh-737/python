@@ -1,8 +1,8 @@
-name = "anshika"
+name = "anshika singh"
 
 print(name[0:5])
 
-print(name[-4: -1])
+print(name[-11: -5])
 print(name[3:6])
 
 print(name[:4])
